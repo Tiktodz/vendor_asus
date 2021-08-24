@@ -456,6 +456,31 @@ PRODUCT_COPY_FILES += \
     vendor/asus/X00TD/proprietary/vendor/lib/libchromatix_ov8856_a3_default_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov8856_a3_default_video.so \
     vendor/asus/X00TD/proprietary/vendor/lib/libchromatix_ov8856_a3_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov8856_a3_hfr_60.so \
     vendor/asus/X00TD/proprietary/vendor/lib/libchromatix_ov8856_a3_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov8856_a3_hfr_90.so \
+    vendor/asus/X00TD/proprietary/vendor/lib/libchromatix_ov8856_bear_3a_default_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov8856_bear_3a_default_preview.so \
+    vendor/asus/X00TD/proprietary/vendor/lib/libchromatix_ov8856_bear_3a_default_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov8856_bear_3a_default_video.so \
+    vendor/asus/X00TD/proprietary/vendor/lib/libchromatix_ov8856_bear_3a_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov8856_bear_3a_hfr_120.so \
+    vendor/asus/X00TD/proprietary/vendor/lib/libchromatix_ov8856_bear_3a_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov8856_bear_3a_hfr_60.so \
+    vendor/asus/X00TD/proprietary/vendor/lib/libchromatix_ov8856_bear_3a_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov8856_bear_3a_hfr_90.so \
+    vendor/asus/X00TD/proprietary/vendor/lib/libchromatix_ov8856_bear_common.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov8856_bear_common.so \
+    vendor/asus/X00TD/proprietary/vendor/lib/libchromatix_ov8856_bear_cpp_ds_chromatix.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov8856_bear_cpp_ds_chromatix.so \
+    vendor/asus/X00TD/proprietary/vendor/lib/libchromatix_ov8856_bear_cpp_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov8856_bear_cpp_hfr_120.so \
+    vendor/asus/X00TD/proprietary/vendor/lib/libchromatix_ov8856_bear_cpp_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov8856_bear_cpp_hfr_60.so \
+    vendor/asus/X00TD/proprietary/vendor/lib/libchromatix_ov8856_bear_cpp_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov8856_bear_cpp_hfr_90.so \
+    vendor/asus/X00TD/proprietary/vendor/lib/libchromatix_ov8856_bear_cpp_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov8856_bear_cpp_liveshot.so \
+    vendor/asus/X00TD/proprietary/vendor/lib/libchromatix_ov8856_bear_cpp_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov8856_bear_cpp_preview.so \
+    vendor/asus/X00TD/proprietary/vendor/lib/libchromatix_ov8856_bear_cpp_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov8856_bear_cpp_snapshot.so \
+    vendor/asus/X00TD/proprietary/vendor/lib/libchromatix_ov8856_bear_cpp_us_chromatix.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov8856_bear_cpp_us_chromatix.so \
+    vendor/asus/X00TD/proprietary/vendor/lib/libchromatix_ov8856_bear_cpp_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov8856_bear_cpp_video.so \
+    vendor/asus/X00TD/proprietary/vendor/lib/libchromatix_ov8856_bear_default_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov8856_bear_default_video.so \
+    vendor/asus/X00TD/proprietary/vendor/lib/libchromatix_ov8856_bear_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov8856_bear_hfr_120.so \
+    vendor/asus/X00TD/proprietary/vendor/lib/libchromatix_ov8856_bear_hfr_60.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov8856_bear_hfr_60.so \
+    vendor/asus/X00TD/proprietary/vendor/lib/libchromatix_ov8856_bear_hfr_90.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov8856_bear_hfr_90.so \
+    vendor/asus/X00TD/proprietary/vendor/lib/libchromatix_ov8856_bear_liveshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov8856_bear_liveshot.so \
+    vendor/asus/X00TD/proprietary/vendor/lib/libchromatix_ov8856_bear_postproc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov8856_bear_postproc.so \
+    vendor/asus/X00TD/proprietary/vendor/lib/libchromatix_ov8856_bear_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov8856_bear_preview.so \
+    vendor/asus/X00TD/proprietary/vendor/lib/libchromatix_ov8856_bear_snapshot.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov8856_bear_snapshot.so \
+    vendor/asus/X00TD/proprietary/vendor/lib/libchromatix_ov8856_bear_zsl_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov8856_bear_zsl_preview.so \
+    vendor/asus/X00TD/proprietary/vendor/lib/libchromatix_ov8856_bear_zsl_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov8856_bear_zsl_video.so \
     vendor/asus/X00TD/proprietary/vendor/lib/libchromatix_ov8856_chicony_front_a3_default_preview.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov8856_chicony_front_a3_default_preview.so \
     vendor/asus/X00TD/proprietary/vendor/lib/libchromatix_ov8856_chicony_front_a3_default_video.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov8856_chicony_front_a3_default_video.so \
     vendor/asus/X00TD/proprietary/vendor/lib/libchromatix_ov8856_chicony_front_a3_hfr_120.so:$(TARGET_COPY_OUT_VENDOR)/lib/libchromatix_ov8856_chicony_front_a3_hfr_120.so \
